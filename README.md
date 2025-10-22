@@ -9,4 +9,4 @@
 
 <h3>Contact</h3>
 <h4>Email: Candoti.rogerandre@gmail.com</h4>
-<h4>Linkedin f08c : rogercandoti</h4>
+<h4>Linkedin: [ Rogercandoti](https://www.linkedin.com/in/roger-candoti-37234a2b3/)</h4>
