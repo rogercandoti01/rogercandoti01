@@ -1,12 +1,27 @@
-<h1> My name is Roger </h1>
+# Hi, I'm Roger 👋
 
-<h2>I am currently studying software engineering at UniFIl</h2>
+I'm a passionate **Junior Developer** currently studying **Software Engineering** at UniFIl. I aim to continuously develop my skills in technology, focusing on programming logic, mastering new languages, and acquiring the key skills that define a great developer.
 
-<h3>I'm a junior developer, I like sports and video games, my goal is to develop myself more and more in the technology area, strengthening my knowledge in programming logic, new languages ​​and key skills of a good developer.</h3>
+## About Me
 
-<h3>Programming language</h3> 
-<h4>JAVA - JavaScript - HTML - CSS - SQL</h4>
+- 🎓 **Studying** Software Engineering at UniFIl
+- 🧑‍💻 **Junior Developer**
+- ⚽ **Sports Enthusiast** and 🎮 **Video Game Lover**
+- 🎯 Goal: To grow and deepen my expertise in programming and technology
 
-<h3>Contact</h3>
-<h4>Email: Candoti.rogerandre@gmail.com</h4>
-<h4>Linkedin: [Rogercandoti](https://www.linkedin.com/in/roger-candoti-37234a2b3/)</h4>
+## Languages & Technologies
+
+I am proficient in the following programming languages and technologies:
+
+- **Java** ☕
+- **JavaScript** 🌐
+- **HTML** 🌍
+- **CSS** 🎨
+- **SQL** 🗄️
+
+## Contact Me
+
+- 📧 **Email**: [Candoti.rogerandre@gmail.com](mailto:Candoti.rogerandre@gmail.com)
+- 💼 **LinkedIn**: [Rogercandoti](https://www.linkedin.com/in/roger-candoti-37234a2b3/)
+
+Thanks for visiting my GitHub profile! 🚀
